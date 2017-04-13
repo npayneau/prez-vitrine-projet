@@ -33,11 +33,11 @@ Accèder à l'adresse suivante http://alm.sncf.fr/sources/vitrine-projet-templat
 
 ---
 
-## 8. <span style="color:#e49436">Où</span> se trouve la définition des autres page web
+## 8. <span style="color:#e49436">Je veux faire</span> une autre page
 
 ---
 
-## 9. <span style="color:#e49436">Où</span> se trouve la documentation
+## 9. <span style="color:#e49436">Documentation</span>
 
 ---
 
