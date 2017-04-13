@@ -9,7 +9,7 @@
 ---
 
 ## 2. Copiez le projet template dans votre espace GITLAB
-Accèder à l'adresse suivante http://alm.sncf.fr/source/vitrine-projet-template
+Accèder à l'adresse suivante http://alm.sncf.fr/sources/vitrine-projet-template
 
 ---
 
