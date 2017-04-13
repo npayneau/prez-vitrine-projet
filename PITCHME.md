@@ -1,10 +1,10 @@
 ## Didacticiel vitrine-projet
-##### <span style="font-family:Helvetica Neue; font-weight:bold">Réalisé <span style="color:#e49436">facilement</span> votre propre site web</span>
+##### <span style="font-family:Helvetica Neue; font-weight:bold">Réaliser <span style="color:#e49436">facilement</span> votre propre site web</span>
 
 ---
 
 ## 1. Connectez vous à GITLAB
-<span style="font-size:0.6em; color:gray">Utilisez votre compte si vous en possédez un ou créér un compte sous l'onglet register</span>
+<span style="font-size:0.6em; color:gray">Utiliser votre compte si vous en possédez un ou créér un compte sous l'onglet register</span>
 
 ---
 
@@ -22,5 +22,3 @@ Accèder à l'adresse suivante http://alm.sncf.fr/source/vitrine-projet-template
 ---
 
 ## 5. <span style="color:#e49436">Modifier</span> le titre de votre site
-
----
