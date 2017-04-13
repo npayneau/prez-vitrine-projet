@@ -3,12 +3,12 @@
 
 ---
 
-## 1. Connectez vous à GITLAB
+## 1. <span style="color:#e49436">Connectez-vous</span> à GITLAB
 <span style="font-size:0.6em; color:gray">Utiliser votre compte si vous en possédez un ou créér un compte sous l'onglet register</span>
 
 ---
 
-## 2. Copiez le projet template dans votre espace GITLAB
+## 2. <span style="color:#e49436">Copiez le projet template</span> dans votre espace GITLAB
 Accèder à l'adresse suivante http://alm.sncf.fr/sources/vitrine-projet-template
 
 ---
