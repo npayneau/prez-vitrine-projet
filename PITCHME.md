@@ -21,4 +21,26 @@ Accèder à l'adresse suivante http://alm.sncf.fr/sources/vitrine-projet-templat
 
 ---
 
-## 5. <span style="color:#e49436">Modifier</span> le titre de votre site
+## 5. <span style="color:#e49436">Où</span> se trouve la configuration générale de mon site
+
+---
+
+## 6. <span style="color:#e49436">Où</span> se trouve la définition de ma première page
+
+---
+
+## 7. <span style="color:#e49436">Modifier</span> le titre de votre site
+
+---
+
+## 8. <span style="color:#e49436">Où</span> se trouve la définition des autres page web
+
+---
+
+## 9. <span style="color:#e49436">Où</span> se trouve la documentation
+
+---
+
+## 9. <span style="color:#e49436">A vous de jouer!</span>
+
+
